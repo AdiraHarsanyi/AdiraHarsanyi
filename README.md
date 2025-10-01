@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! ✨
+Hi, my name is Adira Harsanyi. I'm a data analyst with proficiency in Python and R for data analysis, and PowerBI for data visualization. 
 
 <!--
 **AdiraHarsanyi/AdiraHarsanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
